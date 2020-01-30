@@ -1,0 +1,19 @@
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Infrastructure\bin\Debug\CustomerAPI.Infrastructure.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Infrastructure\bin\Debug\CustomerAPI.Infrastructure.pdb
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Infrastructure\obj\Debug\CustomerAPI.Infrastructure.csprojResolveAssemblyReference.cache
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Infrastructure\obj\Debug\CustomerAPI.Infrastructure.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Infrastructure\obj\Debug\CustomerAPI.Infrastructure.pdb
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Infrastructure\bin\Debug\CustomerAPI.Infrastructure.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Infrastructure\bin\Debug\CustomerAPI.Infrastructure.pdb
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Infrastructure\bin\Debug\CustomerAPI.Core.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Infrastructure\bin\Debug\CustomerAPI.Core.pdb
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Infrastructure\obj\Debug\CustomerAPI.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Infrastructure\obj\Debug\CustomerAPI.Infrastructure.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Infrastructure\obj\Debug\CustomerAPI.Infrastructure.pdb
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Infrastructure\bin\Debug\CustomerAPI.Infrastructure.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Infrastructure\bin\Debug\CustomerAPI.Infrastructure.pdb
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Infrastructure\bin\Debug\CustomerAPI.Core.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Infrastructure\bin\Debug\CustomerAPI.Core.pdb
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Infrastructure\obj\Debug\CustomerAPI.Infrastructure.csprojResolveAssemblyReference.cache
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Infrastructure\obj\Debug\CustomerAPI.Infrastructure.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Infrastructure\obj\Debug\CustomerAPI.Infrastructure.pdb

@@ -1,0 +1,15 @@
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Core\bin\Debug\CustomerAPI.Core.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Core\bin\Debug\CustomerAPI.Core.pdb
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Core\obj\Debug\CustomerAPI.Core.csprojResolveAssemblyReference.cache
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Core\obj\Debug\CustomerAPI.Core.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Core\obj\Debug\CustomerAPI.Core.pdb
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Core\bin\Debug\CustomerAPI.Core.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Core\bin\Debug\CustomerAPI.Core.pdb
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Core\obj\Debug\CustomerAPI.Core.csprojResolveAssemblyReference.cache
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Core\obj\Debug\CustomerAPI.Core.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Core\obj\Debug\CustomerAPI.Core.pdb
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Core\bin\Debug\CustomerAPI.Core.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Core\bin\Debug\CustomerAPI.Core.pdb
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Core\obj\Debug\CustomerAPI.Core.csprojResolveAssemblyReference.cache
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Core\obj\Debug\CustomerAPI.Core.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Core\obj\Debug\CustomerAPI.Core.pdb

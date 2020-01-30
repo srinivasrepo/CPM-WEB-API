@@ -1,0 +1,327 @@
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\ApplicationInsights.config
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\csc.exe
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\vbc.exe
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\VBCSCompiler.exe
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\CustomerAPI.Web.dll.config
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\CustomerAPI.Web.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\CustomerAPI.Web.pdb
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Antlr3.Runtime.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\CustomerAPI.Core.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\CustomerAPI.Infrastructure.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\EntityFramework.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\EntityFramework.SqlServer.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.Web.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Newtonsoft.Json.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Owin.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Net.Http.Formatting.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Threading.Tasks.Extensions.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Cors.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Helpers.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.Cors.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.Owin.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.WebHost.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Mvc.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Optimization.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Razor.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.WebPages.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.WebPages.Razor.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Unity.Abstractions.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Unity.AspNet.WebApi.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Unity.Container.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\WebActivatorEx.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\WebGrease.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\CustomerAPI.Core.pdb
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\CustomerAPI.Infrastructure.pdb
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.Web.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Net.Http.Formatting.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Threading.Tasks.Extensions.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.Cors.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.WebHost.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Newtonsoft.Json.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Helpers.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Mvc.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Optimization.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Razor.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.WebPages.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.WebPages.Razor.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Unity.Abstractions.pdb
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Unity.AspNet.WebApi.pdb
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Unity.AspNet.WebApi.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Unity.Container.pdb
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Antlr3.Runtime.pdb
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\EntityFramework.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\EntityFramework.SqlServer.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.Owin.xml
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\obj\Debug\CustomerAPI.Web.csprojResolveAssemblyReference.cache
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\obj\Debug\CustomerAPI.Web.dll
+E:\Projects\WEBApi\CustomerAPI.Web\CustomerAPI.Web\obj\Debug\CustomerAPI.Web.pdb
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\ApplicationInsights.config
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\csc.exe
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\vbc.exe
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\VBCSCompiler.exe
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\CustomerAPI.Web.dll.config
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\CustomerAPI.Web.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\CustomerAPI.Web.pdb
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Antlr3.Runtime.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\CustomerAPI.Core.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\CustomerAPI.Infrastructure.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\EntityFramework.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\EntityFramework.SqlServer.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.Web.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Newtonsoft.Json.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Owin.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Net.Http.Formatting.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Threading.Tasks.Extensions.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Cors.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Helpers.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.Cors.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.Owin.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.WebHost.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Mvc.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Optimization.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Razor.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.WebPages.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.WebPages.Razor.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Unity.Abstractions.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Unity.AspNet.WebApi.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Unity.Container.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\WebActivatorEx.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\WebGrease.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\CustomerAPI.Core.pdb
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\CustomerAPI.Infrastructure.pdb
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.Web.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Net.Http.Formatting.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Threading.Tasks.Extensions.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.Cors.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.WebHost.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Newtonsoft.Json.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Helpers.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Mvc.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Optimization.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Razor.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.WebPages.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.WebPages.Razor.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Unity.Abstractions.pdb
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Unity.AspNet.WebApi.pdb
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Unity.AspNet.WebApi.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Unity.Container.pdb
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Antlr3.Runtime.pdb
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\EntityFramework.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\EntityFramework.SqlServer.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\bin\System.Web.Http.Owin.xml
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\obj\Debug\CustomerAPI.Web.csprojResolveAssemblyReference.cache
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\obj\Debug\CustomerAPI.Web.dll
+D:\Projects\WebApi\CustomerAPI.Web\CustomerAPI.Web\obj\Debug\CustomerAPI.Web.pdb
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\ApplicationInsights.config
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\roslyn\csc.exe
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\roslyn\vbc.exe
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\roslyn\VBCSCompiler.exe
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\CustomerAPI.Web.dll.config
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\CustomerAPI.Web.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\CustomerAPI.Web.pdb
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Antlr3.Runtime.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\CustomerAPI.Core.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\CustomerAPI.Infrastructure.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\EntityFramework.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\EntityFramework.SqlServer.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AI.Web.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.ApplicationInsights.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Security.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Newtonsoft.Json.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Owin.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Net.Http.Formatting.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Threading.Tasks.Extensions.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Cors.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Helpers.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Http.Cors.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Http.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Http.Owin.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Http.WebHost.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Mvc.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Optimization.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Razor.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.WebPages.Deployment.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.WebPages.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.WebPages.Razor.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Unity.Abstractions.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Unity.AspNet.WebApi.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Unity.Container.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\WebActivatorEx.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\WebGrease.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\CustomerAPI.Core.pdb
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\CustomerAPI.Infrastructure.pdb
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AI.Web.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.ApplicationInsights.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Net.Http.Formatting.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Threading.Tasks.Extensions.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Http.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Http.Cors.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Http.WebHost.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Newtonsoft.Json.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Helpers.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Mvc.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Optimization.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Razor.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.WebPages.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.WebPages.Deployment.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.WebPages.Razor.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Unity.Abstractions.pdb
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Unity.AspNet.WebApi.pdb
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Unity.AspNet.WebApi.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Unity.Container.pdb
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Antlr3.Runtime.pdb
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\EntityFramework.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\EntityFramework.SqlServer.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Security.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\bin\System.Web.Http.Owin.xml
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\obj\Debug\CustomerAPI.Web.csprojResolveAssemblyReference.cache
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\obj\Debug\CustomerAPI.Web.dll
+D:\react_project\Web API\CustomerAPI\CustomerAPI.Web\obj\Debug\CustomerAPI.Web.pdb
