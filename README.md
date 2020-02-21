@@ -1,0 +1,2 @@
+# CPM-WEB-API
+.NET web api for Customer Product Management ConnectionString_encrypt_newValue="gg0Qo/+oSXDmyX/H/zVnnH8b1FEVCViu47zM1Zm3WHLIOjto0IaE2xrIp0/z8/XLbqHaWbedIZFw4dHn0uLx+9yyI9YzLy0+ZN0H6jLbixhfFVTQeso9X39QcprHwaXOCIx7nEjPDxedWZJBYcqSOPbLfi5dINK3lEOK4RkMd+eV/FUXVrALXW5+lKjE2cGF""
