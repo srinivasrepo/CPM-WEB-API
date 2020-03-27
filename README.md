@@ -1,2 +1,5 @@
 # CPM-WEB-API
 .NET web api for Customer Product Management connectionString_encrypt_newValue="gg0Qo/+oSXDmyX/H/zVnnH8b1FEVCViu47zM1Zm3WHLIOjto0IaE2xrIp0/z8/XLbqHaWbedIZFw4dHn0uLx+9yyI9YzLy0+ZN0H6jLbixhfFVTQeso9X39QcprHwaXOCIx7nEjPDxedWZJBYcqSOPbLfi5dINK3lEOK4RkMd+eV/FUXVrALXW5+lKjE2cGF"
+
+IF ON VPN
+gg0Qo/+oSXC5yUXELmt0srpA61AtqVSixljPDEi7PiOt2OXlAd9uVcj0t4/41mPxrIAi0Y158t7AtrwxPCu8ue/BW4zW6/1t3g1dZcKJD01X6MCniiDjcpkBEouyW0csOA566I7EohPrlXC5TTI+X3tmxonL7dNzqjqNyaVIHkr+sX40yNtMeWw5UlBF1Nhn
